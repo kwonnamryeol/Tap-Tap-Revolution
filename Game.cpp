@@ -1,9 +1,12 @@
-#include <iostream>
+﻿#include <iostream>
 #include <windows.h>
 #include <fstream>
 #include <vector>
 #include <ctime>
 #include <conio.h>
+#include<string>
+#include<dirent.h>
+#pragma comment(lib, "winmm.lib")
 
 #include "Game.h"
 #include "Utils.h"

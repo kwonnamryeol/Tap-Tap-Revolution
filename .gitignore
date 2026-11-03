@@ -48,3 +48,13 @@ Temporary Items
 *.cbp
 *.exe
 /obj
+
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.vcxproj.user
+
+# 플레이하면 생기는 하이스코어 파일
+songs/*_score.txt
